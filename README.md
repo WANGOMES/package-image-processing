@@ -1,4 +1,4 @@
-# image_processing
+# Package Image Processing
 
 Description. 
 The package image_processing is used to:
